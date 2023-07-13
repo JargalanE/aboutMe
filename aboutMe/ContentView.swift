@@ -74,7 +74,7 @@ struct ContentView: View {
                             hobbies = false
                             last = false
                         }.buttonStyle(.bordered)
-                        Button("Favorite Color") {
+                        Button("Favoite Color") {
                             intro = false
                             home = false
                             menu = false
